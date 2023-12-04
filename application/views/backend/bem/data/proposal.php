@@ -69,7 +69,7 @@
     <div class="col-md-12 col-sm-6  ">
         <div class="x_panel">
             <div class="x_title">
-                <h2>Proposal Kegiatan dan Pendanaan Pepek</h2>
+                <h2>Proposal Kegiatan dan Pendanaan Test</h2>
                 <ul class="nav navbar-right panel_toolbox">
                     <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
                     </li>
