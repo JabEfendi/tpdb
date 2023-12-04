@@ -1,6 +1,6 @@
 <?php
     defined('BASEPATH') or exit('No direct script access allowed');
-
+// ipin kontol
     class admin extends CI_Controller
     {
 
